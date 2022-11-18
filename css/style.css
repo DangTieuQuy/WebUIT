@@ -1,0 +1,57 @@
+.head{
+    margin: 0px;
+    padding: 10px 500px 10px 500px;
+    height: 50px;
+    overflow: hidden;
+}
+
+#menu{
+    background-color: #304af2;
+    padding-left: 444px;
+    padding-right: 500px;
+}
+
+#menu ul{
+    overflow: hidden;
+}
+
+#menu ul li{
+    float: left;
+    display: inline-table;
+    line-height: 2em;
+    height: 2em;
+}
+
+#menu ul li a{
+    color: aliceblue;
+    display: block;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#menu ul li a:hover{
+    background-color: #0219ad;
+}
+
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #304af2;
+}
+
+#formtimkiem{
+    border: 2px groove;
+    width: 300px;
+    height: 30px;
+    font-size: 17px;
+}
